@@ -1,5 +1,5 @@
 Hey !
-## **This module allow you to customise colors of Samsung Music app !**
+## **This module allow you to customize colors of Samsung Music app !**
 ### # This app works for versions higher than 16.2.25.9
 
 /!\SINCE RIRU V22 YOU MUST ENABLE RESOURCE HOOK IN LSPOSED SETTINGS/!\
