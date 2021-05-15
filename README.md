@@ -19,4 +19,3 @@ If you want to help me or suggest me some ideas you can send mail
 Mail : jck0day@gmail.com
 
 You can now give me donation if you want to support all my free works. A big thanks if you give me this reward it's very sympathic :) : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A3YW496LXQZ5A&source=url
-Thanks to Jacxues and MARZ from InstaPref module for there help ! :)
